@@ -34,7 +34,9 @@ One could say ballets have several creators, just like books. If you're talking 
 
 ### Movies ###
 #### Stage ####
+Historically and currently, movies have taken on theaters as stages. They've been projected in rooms small and large. Today, movies have taken on a digital stage as well. The need for physical forms of storage such as VHS tapes or DVDs has diminished. 
 #### Stories ####
+
 #### Creator ####
   
 ## Choreography ##
