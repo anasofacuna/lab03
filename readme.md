@@ -11,7 +11,7 @@ Personally, I really enjoy books, ballet, and film. Books have been around for a
 ## Taxonomy ##
 Here is the example I'm going to use to break things down:
 
--Kind of Entertainment
+- Kind of Entertainment
   - Stage
   - Stories
   - Creator
@@ -26,8 +26,11 @@ Books have authors and publishing houses. In the case of authors, they can eithe
 
 ### Ballets ###
 #### Stage ####
+Ballets are often performed on actual stages. In the past, they were performed for royalty and people of high status. Although that has changed and ballet performances and lessons have been made more accessible to people, it does attract a more affluent group. Ballet can, in theory, be formored anywhere as long as there are dancers ready to perform. Some performances will feature a live orchestra playing the score, whereas others will use a recording. 
 #### Stories ####
+Ballets tell story through the classical ballet dance style. Sometimes, because the breadth of a story may not be easy to understand, the audience is given a pamphlet with the storyline. A lot of the time, there is a main princess involved who is having trouble in an area of her live. There might be a love interest involved. Over time, ballets have more abstract so that choreographers are able to express merely a feeling through movement and music.
 #### Creator ####
+One could say ballets have several creators, just like books. If you're talking about a ballet score, then an important composer like Tchaikovsky would be credited for the ballet. Choreographers are the main creators of dance. If their choreography is original or impressive enough, their ballet will be though and performed through the ages.
 
 ### Movies ###
 #### Stage ####
