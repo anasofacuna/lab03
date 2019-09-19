@@ -15,7 +15,7 @@ Here is the example I'm going to use to break things down:
   - Stories
   - Creator
   
-### [Books] ###(https://en.wikipedia.org/wiki/Book/ "Books")
+### [Books] ### (https://en.wikipedia.org/wiki/Book/ "Books")
 #### Stage ####
 
 #### Stories ####
