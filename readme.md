@@ -20,7 +20,7 @@ Here is the example I'm going to use to break things down:
 #### Stage ####
 Through history, books have been published and shared with audiences through a series of mediums. In ancient times, books could come in the shape of scrolls. However, as technology has advanced, different methods have been used to print books. There's been a shift from ink to toner even! Now, we can access books online or through ereaders, making books accessible in different ways. People can still find books in libraries and bookstores too.
 #### Stories ####
-Books come in different genres and for different puposes. In the past, printing and paper were deemed to expensive to be used for entertainment. Clearly, that's changed. Books can be of either fiction or nonfiction for entertainment and to tell stories. According to [wikipedia] (https://en.wikipedia.org/wiki/Book), novels are the most kinds of books. Novels feature a plot, setting, theme, and characters, and are centered around any topic.
+Books come in different genres and for different puposes. In the past, printing and paper were deemed to expensive to be used for entertainment. Clearly, that's changed. Books can be of either fiction or nonfiction for entertainment and to tell stories. According to [wikipedia] (https://en.wikipedia.org/wiki/Book "wikipedia"), novels are the most kinds of books. Novels feature a plot, setting, theme, and characters, and are centered around any topic.
 #### Creator ####
 Books have authors and publishing houses. In the case of authors, they can either make up a fiction story, or they can narrate real life events. Sometimes authors will talk about themselves or their lives in an autobiography. With the work of editors and publishers, authors get their work to the public.
 
