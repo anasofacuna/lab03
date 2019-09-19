@@ -10,6 +10,7 @@ Personally, I really enjoy books, ballet, and film. Books have been around for a
 
 ## Taxonomy ##
 Here is the example I'm going to use to break things down:
+
 -Kind of Entertainment
   - Stage
   - Stories
