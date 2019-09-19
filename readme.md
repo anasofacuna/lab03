@@ -9,10 +9,26 @@ Personally, I really enjoy books, ballet, and film. Books have been around for a
 - Kinds of entertainment have a creator.
 
 ## Taxonomy ##
-- Kind of Entertainment
+Here is the example I'm going to use to break things down:
+-Kind of Entertainment
   - Stage
   - Stories
   - Creator
+  
+### Books ###
+#### Stage ####
+#### Stories ####
+#### Creator ####
+
+### Ballets ###
+#### Stage ####
+#### Stories ####
+#### Creator ####
+
+### Movies ###
+#### Stage ####
+#### Stories ####
+#### Creator ####
   
 ## Choreography ##
 I decided to order these by how grand their production will be. A book, while an involved process, typically lacks the presentation of a ballet. And while a ballet's stage can be quite ornamented, film's use of technology outstages other forms of entertainment. Afterwards, I narrowed it down to the scope of how I think entertainment comes to be. For example, people will first pick up a book, then engage in its story, and maybe in the end inquire about its author.
