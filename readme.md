@@ -36,8 +36,9 @@ One could say ballets have several creators, just like books. If you're talking 
 #### Stage ####
 Historically and currently, movies have taken on theaters as stages. They've been projected in rooms small and large. Today, movies have taken on a digital stage as well. The need for physical forms of storage such as VHS tapes or DVDs has diminished. 
 #### Stories ####
-
+Like books, movies can be about fiction or real events. In the past, people would often go to movie theaters to see projections with news from around the world. As the decades go back, technology allows creators to make more ornamated settings and characters. However, that was never the biggest obstacle as even movies in the 1930s, like The Wizard of Oz, were using make up and costumes to tell the most fictitious of stories. 
 #### Creator ####
+Movie storytellers can be several people. Directors, who often carry the bulk of the weight while representing a movie, are in charge of how the story is told by actors. Actors bring to life a writer's dialogue. Still, with all these creative minds, producers, who are involved in financing films, also have a say in the execution. In fact, producers ultimately receive the Academy Award for Best Picture while other creators receive awards for their category.
   
 ## Choreography ##
 I decided to order these by how grand their production will be. A book, while an involved process, typically lacks the presentation of a ballet. And while a ballet's stage can be quite ornamented, film's use of technology outstages other forms of entertainment. Afterwards, I narrowed it down to the scope of how I think entertainment comes to be. For example, people will first pick up a book, then engage in its story, and maybe in the end inquire about its author.
